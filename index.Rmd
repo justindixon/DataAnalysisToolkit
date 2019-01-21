@@ -1,0 +1,20 @@
+--- 
+title: "Workflow and Tools for Data Analayis Projects in R and Python"
+author: "Justin Dixon"
+date: "`r Sys.Date()`"
+output: pdf_document
+description: An overview of the data analysis workflow with R and Python tools. 
+documentclass: book
+link-citations: yes
+bibliography:
+- book.bib
+- packages.bib
+site: bookdown::bookdown_site
+biblio-style: apalike
+---
+
+# Prerequisites
+
+There are two repositories available for this book. The first is required the practical demonstration discussed. The second contains a directory that can be used for data analysis projects. 
+
+

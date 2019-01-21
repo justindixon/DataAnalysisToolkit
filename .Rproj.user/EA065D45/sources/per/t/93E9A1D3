@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547542545214.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "129940534",
+    "id" : "93E9A1D3",
+    "lastKnownWriteTime" : 1547542589,
+    "last_content_update" : 1547542589633,
+    "path" : "~/Projects/DataAnalysisToolkit/08-communication.Rmd",
+    "project_path" : "08-communication.Rmd",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
